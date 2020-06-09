@@ -105,7 +105,7 @@ class Person
   
   def get_married(person)
     self.partner = person
-    person.partner = self
+    # person.partner = self
   end
 end
 
